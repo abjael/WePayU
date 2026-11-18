@@ -1,4 +1,4 @@
-# ProjetoP2
+# WePayU
 
 Sistema de folha de pagamento desenvolvido em Java para a disciplina de
 Programacao 2. A fachada da aplicacao fica em
